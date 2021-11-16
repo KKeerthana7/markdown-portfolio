@@ -1,3 +1,3 @@
-:purple_heart:
-:smile:
-:sparkles:
+* :purple_heart:
+* :smile:
+* :sparkles:
